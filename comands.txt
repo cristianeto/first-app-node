@@ -1,0 +1,20 @@
+  374  cd /Users/cristian/Documents/Onedrive/Nodejs/first-server 
+  375  ls -l
+  376  npm -version
+  377  npm -v
+  378  node -v
+  379  npm -v
+  380  clear
+  381  pwd
+  382  npm init -y
+  383  npm i express
+  384  npm i ejs body-parser
+  385  npm i nodemon -D
+  386  npm start
+  387  npm run dev
+  388  npm run dev
+  389  npm run dev
+  390  npm run dev
+  391  npm run dev
+  392  history 5
+  393  history 100 > comands.txt
